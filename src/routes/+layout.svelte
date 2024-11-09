@@ -48,7 +48,7 @@
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="/Blog"
+					href="https://blog.jackson-alvarez.dev/"
 					rel="noreferrer"
 				>
 					
