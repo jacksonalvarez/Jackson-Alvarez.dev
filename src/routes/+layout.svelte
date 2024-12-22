@@ -41,13 +41,6 @@
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="/Work"
-					rel="noreferrer"
-				>
-					Work 💼
-				</a>
-				<a
-					class="btn btn-sm variant-ghost-surface"
 					href="https://blog.jackson-alvarez.dev/"
 					rel="noreferrer"
 				>
